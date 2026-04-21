@@ -1,6 +1,6 @@
 # Single-Bet-Automation
 Single Bet Placement is a sports betting web application that allows users to place a single wager on the outcome of a sporting event. 
-A Python-based automation framework for testing web and API modules.  
+This repository contains a Python-based automation framework for testing both web UI and API modules.
 
 # Set Up Instructions
 1. Clone the repository
@@ -8,7 +8,11 @@ A Python-based automation framework for testing web and API modules.
    cd QA-AUTOMATION-PROJECT
    
 # Project Structure
-
+api/ - All API tests
+tests/ -All UI test files
+config/ -Settings file contains all global settings and variables
+confest/ -All pytest fixtures
+pages/ -All page object locators and functions
    
 # Install Dependencies
 1. install python 3
