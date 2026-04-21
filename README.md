@@ -4,8 +4,7 @@ This repository contains a Python-based automation framework for testing both we
 
 # Set Up Instructions
 1. Clone the repository
-   git clone https://github.com/your-username/QA-AUTOMATION-PROJECT.git
-   && cd QA-AUTOMATION-PROJECT
+   git clone https://github.com/your-username/QA-AUTOMATION-PROJECT.git && cd QA-AUTOMATION-PROJECT
    
 # Project Structure
 1. api/ - All API tests
