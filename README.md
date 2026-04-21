@@ -19,6 +19,6 @@ This repository contains a Python-based automation framework for testing both we
 1. install python 3
 2. Install libraries using pip command:- pytest, requests and selenium
 
-# Runnng tests
+# Running tests
 1. pytest - to run all tests
 2. pytest tests/test_single_bet.py - to run single test
