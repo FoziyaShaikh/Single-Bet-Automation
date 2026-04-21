@@ -1,3 +1,4 @@
+# Global settings for the test suite
 BASE_URL = "https://qae-assignment-tau.vercel.app"
 DEFAULT_WAIT = 10
 LONG_WAIT = 20
